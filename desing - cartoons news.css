@@ -1,0 +1,114 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    border: 12px solid black;
+    width: 99%;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+
+nav ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+    width: 100%;
+    border: 6px solid gray; 
+    text-align: center;
+    
+}
+nav li{
+    display: inline;
+    padding: 7px;
+    border-right:3px solid black;
+}
+nav li a{
+    color: black;
+    text-decoration: none;
+    
+    
+    
+}
+#inicial:hover{
+    background-color: green;
+    color: white;
+    border: 10px solid green; 
+}
+#principais_news:hover{
+    background-color:dodgerblue;
+    color: white;
+    border: 10px solid dodgerblue;
+}
+#r_social:hover{
+    background-color: maroon;
+    color: white;
+    border: 10px solid maroon;
+}
+#contatos:hover{
+    background-color:orangered;
+    color: white;
+    border: 10px solid orangered;
+}
+#sobre:hover{
+    background-color: darkorchid;
+    color: white;
+    border: 10px solid darkorchid;
+}
+
+
+.img_inicial{
+    width: 101%;
+    height: 225px;
+    margin: 5px;
+}
+
+
+#border_inicial {
+    border:3px solid green;
+    width: 50%;
+    margin: 10px;
+}
+#border_sobre {
+    border: 3px solid darkorchid;
+    width: 50%;
+    margin: 10px;
+
+}
+#border_rsociais {
+    border: 3px solid maroon;
+    width: 50%;
+    margin: 10px;
+}
+#border_noticias {
+    border: 3px solid dodgerblue;
+    width: 50%;
+    margin: 10px;
+}
+#border_contato {
+    border: 3px solid orangered;
+    width: 50%;
+    margin: 10px;
+}
+
+
+p{ 
+    width: 60%;
+    text-align: justify;
+    margin: 8px;
+}
+
+ 
+div{
+    width: 30%;
+    border: black solid 5px;
+    margin: 5px;
+    
+
+}
